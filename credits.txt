@@ -1,0 +1,17 @@
+=== CREDITS ===
+
+Panorama build by mrGnegich
+
+Vanilla Tweaks:
+https://vanillatweaks.net/
+Vanilla Tweaks Resource Pack
+Version: 1.20
+Packs:
+	VisualInfestedStoneItems
+	VisualWaxedCopperItems
+	ClearBannerPatterns
+	NoCaveSounds
+	ClearerWater
+	BetterParticles
+	UniqueDyes
+	SmootherFont
