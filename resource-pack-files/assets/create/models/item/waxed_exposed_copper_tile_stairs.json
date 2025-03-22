@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "create:item/exposed_copper_roof",
-    "side": "create:item/exposed_copper_tiles",
-    "top": "create:item/exposed_copper_stairs_top"
-  }
-}
